@@ -1,0 +1,10 @@
+#Configure ore spawn rates for specific biomes.
+#Format: 'biome_id|ore_id|spawn_rate_multiplier'
+#Example: 'minecraft:desert|minecraft:diamond_ore|2.0' (200% diamond spawns in desert)
+#Example: 'minecraft:ocean|minecraft:diamond_ore|0.1' (10% diamond spawns in ocean)
+#Example: 'minecraft:plains|minecraft:iron_ore|1.5' (150% iron spawns in plains)
+#spawn_rate_multiplier of 0.0 completely disables the ore in that biome
+#spawn_rate_multiplier of 1.0 keeps default generation
+#Values above 1.0 increase generation, below 1.0 decrease it
+biomeOreModifiers = []
+

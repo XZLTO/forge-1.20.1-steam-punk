@@ -62,6 +62,9 @@
     "registry_name": "OFF",
     "mod_name": true
   },
+  "evolution": {
+    "jade": true
+  },
   "corpse": {
     "corpse": true
   }

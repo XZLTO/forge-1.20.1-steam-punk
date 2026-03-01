@@ -206,14 +206,14 @@
     "animal": {
       "animal": 1,
       "bird": {
-        "bird": 1,
+        "bird": 0.20972643792629242,
         "bird_day": 1,
         "bird_night": 1
       },
       "cicadas": 1,
       "cricket": {
-        "cricket": 1,
-        "cricket_day": 1,
+        "cricket": 0.30254778265953064,
+        "cricket_day": 0.30254778265953064,
         "cricket_night": 1
       }
     },
